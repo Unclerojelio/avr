@@ -1,0 +1,4 @@
+.DS_Store
+*.elf
+*.hex
+avrdude_utilities/
